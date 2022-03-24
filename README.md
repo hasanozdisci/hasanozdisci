@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Javascript and Web Development**
+- 🌱 I’m currently learning **Javascript and**
 
 - 📫 How to reach me **hasanozdisci@gmail.com**
 
