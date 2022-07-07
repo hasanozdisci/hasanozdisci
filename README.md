@@ -34,7 +34,7 @@
 
 
 
-### Connect with me:
+### :mailbox: Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/hasanozdisci/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
