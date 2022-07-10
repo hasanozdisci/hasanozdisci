@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **hasanozdisci@gmail.com**
 
-- ⚡ Fun fact **I play games**
 
 ## 🚀 Languages and Tools:
 
