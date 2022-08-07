@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **hasanozdisci@gmail.com**
+- 📫 You can contact me via: **hasanozdisci@gmail.com**
 
 
 ## 🚀 Languages and Tools:
