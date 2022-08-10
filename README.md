@@ -15,6 +15,7 @@
 
 ## 🚀 Languages and Tools:
 
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> 
@@ -26,6 +27,7 @@
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"/> 
         </p>
         <br>
+        
 
 
 
@@ -41,7 +43,8 @@
 
 
 
-### :mailbox: Connect with me:
+## :mailbox: Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/hasanozdisci/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
