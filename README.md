@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently working on **backend development**
 
 - 📫 You can contact me via: **hasanozdisci@gmail.com**
   <br>
